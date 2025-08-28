@@ -14,3 +14,8 @@ Aqui una lista de las variables:
 - G1: Calificación del primer periodo, escala del 0 al 20.
 - G2: Calificación del segundo periodo, escala del 0 al 20.
 - G3: Calificación final, escala del 0 al 20.
+
+Aqui los documentos para visualizar
+- [Reporte en formato html](./A1.5-Solucion-de-problemas.html)
+- [Reporte en formato ipynb](./A1.5-Solucion-de-problemas.ipynb)
+- [Base de datos](./A1.5-Calificaciones.csv)
